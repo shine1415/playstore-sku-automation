@@ -118,9 +118,9 @@ Example:
 
 ```csv
 PRODUCT ID,BASE PLAN ID,TITLE,DESCRIPTION,LANGUAGE CODE,BILLING PERIOD,GRACE PERIOD,RESUBSCRIBE STATE,OFFER ID,REGION,REGION NAME,CURRENCY CODE,PRICE,INTRO PRICE
-com.duaag.premium.1wk.offer.p5,weekly-plan-1,Weekly Offer,Unlock all premium features.,en-US,P1W,P0D,RESUBSCRIBE_STATE_ACTIVE,launch-offer,US,United States,USD,2.99,1.49
-com.duaag.premium.1wk.offer.p5,weekly-plan-1,Weekly Offer,Unlock all premium features.,en-US,P1W,P0D,RESUBSCRIBE_STATE_ACTIVE,launch-offer,DE,Germany,EUR,2.99,1.49
-com.duaag.premium.1wk.offer.p6,weekly-plan-2,Weekly Offer,Unlock all premium features.,en-US,P1W,P0D,RESUBSCRIBE_STATE_ACTIVE,launch-offer,US,United States,USD,3.99,1.99
+com.example.premium.weekly.offer.1,weekly-plan-1,Weekly Offer,Unlock all premium features.,en-US,P1W,P0D,RESUBSCRIBE_STATE_ACTIVE,launch-offer,US,United States,USD,2.99,1.49
+com.example.premium.weekly.offer.1,weekly-plan-1,Weekly Offer,Unlock all premium features.,en-US,P1W,P0D,RESUBSCRIBE_STATE_ACTIVE,launch-offer,DE,Germany,EUR,2.99,1.49
+com.example.premium.weekly.offer.2,weekly-plan-2,Weekly Offer,Unlock all premium features.,en-US,P1W,P0D,RESUBSCRIBE_STATE_ACTIVE,launch-offer,US,United States,USD,3.99,1.99
 ```
 
 ## Recommended Workflow
