@@ -1,5 +1,7 @@
 # Google Play SKU Dashboard
 
+![Google Play SKU Dashboard](assets/dashboard-screenshot.png)
+
 Local dashboard for creating and repairing Google Play subscription SKUs.
 
 It helps people who spend too much time doing repetitive Google Play Console work:
