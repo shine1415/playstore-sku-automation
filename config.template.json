@@ -1,0 +1,6 @@
+{
+  "google_play": {
+    "service_account_path": "./secrets/google-service-account.json",
+    "package_name": "com.example.app"
+  }
+}

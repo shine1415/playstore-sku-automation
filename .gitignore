@@ -1,0 +1,10 @@
+.env
+*.pyc
+__pycache__/
+secrets/
+logs/
+token.json
+config.local.json
+dashboard_settings.local.json
+service-account.json
+*.p8
